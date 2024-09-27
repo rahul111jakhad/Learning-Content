@@ -6,7 +6,6 @@ This repository contains the resources that are discussed during the weekly meet
 - [Applying for financial aid on Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid-or-a-Scholarship)
 - [Some of the great resources for learning statistics and machine learning](https://sgfin.github.io/learning-resources/)
 - [CS229 by Stanford University](http://cs229.stanford.edu/)
-- [Siraj Raval's Webpage](http://www.sirajraval.com/)
 - [Basic Information about Deep Learning](https://stats385.github.io/basicinfo)
 - [Important blogs](https://stats385.github.io/blogs)
 - [Deep Learning cheat sheet](https://stats385.github.io/cheat_sheet)
@@ -18,6 +17,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Pandas Tutorial Introduction - sentdex](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
+ 
 # Phase 2 - 2019
 
 
@@ -35,7 +35,7 @@ This repository contains the resources that are discussed during the weekly meet
   | 9     | 7th April 2019   |ML Coursera Week 10 and 11                         |14th April 2019  |
   | 10    | 14th April 2019  |Session on Important ML Algorithms                 |14th April 2019  |
   | 11    | 15th April 2019  |Kaggle competition                                 |24th April 2019  |
-  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |---              |
+  | 12    | 12th May 2019    |Starting of DeepLearning.ai                        |                 |
   
 ## Members
 
